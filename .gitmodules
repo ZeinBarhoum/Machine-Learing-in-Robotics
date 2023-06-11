@@ -1,0 +1,3 @@
+[submodule "Course-Project-RL-Quadrotor"]
+	path = Course-Project-RL-Quadrotor
+	url = https://github.com/ZeinBarhoum/RL-quadrotor
